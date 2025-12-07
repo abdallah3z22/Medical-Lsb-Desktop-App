@@ -26,9 +26,9 @@ The application provides a **user-friendly interface** and **robust functionalit
 ## 💻 Technologies Used
 - **Language:** Java  
 - **Platform:** Desktop Application  
-- **IDE:** NetBeans / Eclipse  
-- **Database:** MySQL / SQLite  
-- **GUI Framework:** Swing / JavaFX
+- **IDE:** NetBeans  
+- **Database:** MySQL 
+- **GUI Framework:** Swing
 
 ---
 
@@ -47,13 +47,6 @@ The application provides a **user-friendly interface** and **robust functionalit
 - Use search functionality to find records quickly.  
 - Generate reports for printing or exporting.
 
----
-
-## 📈 Future Improvements
-- Add authentication for multiple users with roles (Admin, Lab Technician).  
-- Implement PDF export for reports.  
-- Add notifications for pending test results.  
-- Improve UI with JavaFX for modern look and feel.
 
 ---
 
