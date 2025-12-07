@@ -36,7 +36,7 @@ The application provides a **user-friendly interface** and **robust functionalit
 <p align="center">
   <img src="project-images/login.png"/>
   <br/>
-  <img src="https://via.placeholder.com/600x300?text=Patient+Records" alt="Patient Records"/>
+  <img src="project-images/program.png"/>
 </p>
 
 ---
