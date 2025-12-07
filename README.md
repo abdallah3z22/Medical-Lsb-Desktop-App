@@ -34,7 +34,7 @@ The application provides a **user-friendly interface** and **robust functionalit
 
 ## 🔗 Screenshots
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=App+Main+Screen" alt="Main Screen"/>
+  <img src="project-images/login.png"/>
   <br/>
   <img src="https://via.placeholder.com/600x300?text=Patient+Records" alt="Patient Records"/>
 </p>
