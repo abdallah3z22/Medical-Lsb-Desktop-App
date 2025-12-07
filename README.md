@@ -26,13 +26,38 @@ The application provides a **user-friendly interface** and **robust functionalit
 ## 💻 Technologies Used
 - **Language:** Java  
 - **Platform:** Desktop Application  
-- **IDE:** NetBeans
-- **Database:** MySQL 
-- **GUI Framework:** Swing
+- **IDE:** NetBeans / Eclipse  
+- **Database:** MySQL / SQLite  
+- **GUI Framework:** Swing / JavaFX
 
 ---
 
-## 📂 Installation & Setup
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/abdallah3z22/Medical-Lsb-
+## 🔗 Screenshots
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=App+Main+Screen" alt="Main Screen"/>
+  <br/>
+  <img src="https://via.placeholder.com/600x300?text=Patient+Records" alt="Patient Records"/>
+</p>
+
+---
+
+## ⚡ Usage
+- Launch the application.  
+- Navigate through menus to add patients and tests.  
+- Use search functionality to find records quickly.  
+- Generate reports for printing or exporting.
+
+---
+
+## 📈 Future Improvements
+- Add authentication for multiple users with roles (Admin, Lab Technician).  
+- Implement PDF export for reports.  
+- Add notifications for pending test results.  
+- Improve UI with JavaFX for modern look and feel.
+
+---
+
+## 📫 Contact
+For questions or support, contact **Abdallah Zaitoun**:  
+- Email: `abdallahzaytoon42@gmail.com`  
+- LinkedIn: [Abdallah Zaitoun](https://www.linkedin.com/in/abdallah-zaitoun-133754348)
