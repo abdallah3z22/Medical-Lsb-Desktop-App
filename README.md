@@ -26,9 +26,9 @@ The application provides a **user-friendly interface** and **robust functionalit
 ## 💻 Technologies Used
 - **Language:** Java  
 - **Platform:** Desktop Application  
-- **IDE:** NetBeans / Eclipse  
-- **Database:** MySQL / SQLite  
-- **GUI Framework:** Swing / JavaFX
+- **IDE:** NetBeans
+- **Database:** MySQL 
+- **GUI Framework:** Swing
 
 ---
 
