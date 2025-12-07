@@ -34,10 +34,10 @@ The application provides a **user-friendly interface** and **robust functionalit
 
 ## 🔗 Screenshots
 <p align="center">
-  <img src="project-images/login.png"/>
-  <br/>
-  <img src="project-images/program.png"/>
+  <img src="project-images/login.png" width="300" height="200" style="margin: 5px;"/>
+  <img src="project-images/program.png" width="300" height="200" style="margin: 5px;"/>
 </p>
+
 
 ---
 
